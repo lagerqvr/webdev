@@ -11,5 +11,5 @@ all of the text on the website was made up in order for the project to have a mo
 The reflective report for this project can be found in the 
 ```html
 index.html
-```
-in the gallery folder. 
+``` 
+gallery folder. 
