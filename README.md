@@ -8,8 +8,8 @@ The website was created for a imaginary customer called "Makeup Monkey". The cus
 makeup and needed a basic website to display contact information, products and to give a proffesional look for the company. Wih some imagination 
 all of the text on the website was made up in order for the project to have a more humoristic approach. 
 
-The reflective report for this project can be found in the 
+The reflective report for this project can be found in the gallery folder under:
 ```html
 index.html
 ``` 
-gallery folder. 
+
